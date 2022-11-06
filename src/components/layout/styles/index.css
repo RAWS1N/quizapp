@@ -1,0 +1,23 @@
+.correct {
+    background-color:lightgreen;
+    background-color:#A9E9AA;
+    color:black;
+}
+
+
+.inCorrect {
+    background-color:tomato;
+    color:black;
+}
+
+
+
+.notSelected {
+    background-color:white;
+}
+
+
+.held {
+    background-color:black;
+    color:white;
+}
