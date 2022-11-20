@@ -50,7 +50,7 @@ function App() {
   }
 
   useEffect(() => {
-    localStorage.setItem("score", score);
+    localStorage.setItem("score",0);
     if(score > maxScore){
       setMaxScore(score)
       localStorage.setItem('maxscore',score)
